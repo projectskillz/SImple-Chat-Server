@@ -2,13 +2,13 @@
 A Simple Chat Server - Released under MIT License
 A simple chat server build entirely with node.js a test server is available at
 chat.techcentroid.com/ room id
-It can be anything you want
+room id can be anything you want
 eg: chat.techcentroid.com/123
-Then share that URL with your friend so that they can join your room.
+Then share the URL with your friends so that they can join your room.
 
 How to use:
 1. You must have node and npm installed
-2. Download the source then in terminal type npm install to install the dependencies.
+2. Download the source, then in terminal type 'npm install' to install the dependencies.
 3. Then type node app.js to run the app
 4. Go to localhost:3000/unique+id
 eg http://localhost:3000/12
